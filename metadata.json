@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse Fitness Tracker",
+  "description": "Instructive fitness goal tracking with reminder alarms, audio coaching, real-time analytics, and social sharing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
